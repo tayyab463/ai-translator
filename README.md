@@ -7,7 +7,7 @@ An AI-powered language translator with a premium, glassmorphism-styled frontend 
 
 You can access the deployed application here:
 
-👉 **https://your-render-url.onrender.com**
+👉 **https://ai-translator-0z0b.onrender.com/**
 
 No installation is required—just open the link in your browser and start translating text instantly.
 
