@@ -3,6 +3,13 @@
 An AI-powered language translator with a premium, glassmorphism-styled frontend and a FastAPI backend powered by **Google Gemini**. Enter text, pick a source and target language (or let it auto-detect), and get an instant translation.
 
 ---
+## 🚀 Live Demo
+
+You can access the deployed application here:
+
+👉 **https://your-render-url.onrender.com**
+
+No installation is required—just open the link in your browser and start translating text instantly.
 
 ## ✨ Features
 
